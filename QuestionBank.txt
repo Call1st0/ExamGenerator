@@ -1,0 +1,151 @@
+% Question Bank for Exam generator
+
+\section*{Digitalna slika}
+\begin{enumerate}
+\item Što je digitalna slika?
+\item Opiši proces digitalizacije slike.
+\item Što sve doprinosi degradaciji slike prilikom digitalizacije.
+\item Koja su dva glavna koraka potrebna za digitalizaciju slike?
+\item Što je uzorkovanje?
+\item Što je kvantizacija?
+\item Usporedi tri glavna faktora koji utječu na percipiranu kvalitetu digitalne slike?
+\item Što je prostorna rezolucija digitalne slike i čime je uvjetovana?
+\item Što je tonska rezolucija digitalne slike i čime je uvjetovana?
+\item Kako sadržaj slike utječe na krivulje izopreferencije?
+\item Koje su teoretske granice razlučivosti tonske i prostorne rezolucije kod prosječnog promatrača?
+\item Opiši sliku kao diskretnu funkciju.
+\item Definiraj logičku operaciju jednotonske segmentacije?
+\item Koji rezultat se ostvari kada se jednotonska segmentacija primjeni na višetonsku digitalnu sliku?
+\end{enumerate}
+
+\section*{Kolorimetrija}
+\begin{enumerate}
+\item Navedi i objasni Grassmanove zakone.
+\item Matematički definiraj Grassmanove zakone.
+\item Skiciraj bipartitni kolorimetar.
+\item Objasni eksperiment usklađivanja boja.
+\item Što je potrebno za određivanje XYZ vrijednosti neke boje.
+\item Što je glavni nedostatak x,y dijagrama kromatičnosti?
+\item Matematički definiraj x,y koordinate kromatičnosti.
+\item Kako se odredi dominantna valna duljina na x,y dijagramu kromatičnosti.
+\item Kako se određuje čistoća pobude na na x,y dijagramu kromatičnosti.
+\item Definiraj $\Delta E^*_{ab}$ kolorimetrijsku razliku.
+\end{enumerate}
+
+\section*{Denzitometrija}
+\begin{enumerate}
+\item Što je denzitometar i gdje se koristi u grafičkoj tehnologiji?
+\item Koja su dva osnovna tipa denzitometrijskih mjerenja?
+\item Što denzitometar mjeri?
+\item Čime denzitometar mora biti opremljen za denzitometrijska mjerenja otisaka u boji?.
+\item Skiciraj građu denzitometra.
+\item Što opisuje Beer-Lambertov zakon?
+\item Što je pravilo proporcionalnosti Beer-Lambertovog zakona?
+\item Što je pravilo aditivnosti Beer-Lambertovog zakona?
+\item Zbog kojih se razloga javlja greška aditivnosti i proporcionalnosti u praksi?
+\end{enumerate}
+
+\section*{Kontrast}
+\begin{enumerate}
+\item Što je simultani kontrast kod viđenja boja?
+\item Što je sukcesivni kontrast kod viđenja boja?
+\item Navedi na koje karakteristike boje može utjecati simultani kontrast?
+\item Kako simultani kontrast utječe na pojavnost boja?
+\item Kako sukcesivni kontrast utječe na pojavnost boja?
+\item Što je kromatska adaptacija?
+\item Što nam govori von Kries-ova hipoteza?
+\end{enumerate}
+
+\section*{Vidljivost rastera}
+\begin{enumerate}
+\item Usporedi dvije vrste fotoosjetljivih stanica koje postoje u oku?
+\item Opiši pojam praga zamjetljive razlike (Just Noticable Difference) na nekom primjeru iz života.
+\item Definiraj Weber zakon.
+\item Zašto su Weberovi i Fachnerovi zaključci važni za rasterske sustave?
+\item Opiši osjetljivost ljudskog vizualnog sustava na svjetlinu.
+\item Za koje nivoe luminancije weberov omjer nije, a za koje je konstantan. Skiciraj.
+\item Pri kojim valnim duljinama je ljudski vizualni sustav najosjetljiviji na promjene u boji. Kojim bojama te valne duljine odgovaraju?
+\item Definiraj Weberov kontrast i objasni u kojim uvjetima se koristi?
+\item Definiraj Michelsonov kontrast i objasni u kojim uvjetima se koristi?
+\item Skiciraj i objasni funkciju osjetljivosti ljudskog vizualnog sustava na kontrast.
+\item Kako funkcija osjetljivosti na kontrast ovisi o svjetlini podražaja?
+\item Usporedi osjetljivost ljudskog vizualnog sustava na kontrast u svjetlini i kontrast u kromatičnosti.
+\item Opiši osjetljivost ljudskog vizualnog sustava na orijentaciju.
+\end{enumerate}
+
+\section*{Modeli mješanja}
+\begin{enumerate}
+\item Navedi modele miješanja boja koje poznaješ.
+\item Opiši aditivno miješanje idealnih boja.
+\item Opiši suptraktivno miješanje idealnih boja.
+\item Opiši i matematički definiraj konverziju idealnih boja.
+\item Usporedi SPF krivulje idealnih i realnih boja.
+\item Objasni Neugebauerov model rasterskog miješanja boja.
+\item Objasni i skiciraj Demichelov model preklapanja rasterskih elemenata.
+\item Objasni i skiciraj Murray-Daviesov model.
+\item Na temelju Murray-Daviesovog modela izvedi izraz za određivanje pokrivenosti površine iz optičkih gustoća rasterskog i punog polja.
+\item Objasni i skiciraj Yule-Nielsenov model.
+\item Usporedi Murray-Daviesov i Yule-Nielsenov model.
+\item Na temelju Yule-Nielsenovog modela izvedi izraz za određivanje pokrivenosti površine iz optičkih gustoća rasterskog i punog polja.
+\item Objasni zašto su Yule i Nielsen uveli koeficijent $n$ u svoju jednadžbu. 
+\item Skiciraj ovisnost pokrivenosti površine i optičke gustoće rasterskog polja za dva različita iznosa Yule-Nielsenovog koeficijenta $n$.
+\end{enumerate}
+
+\section*{Miréa}
+\begin{enumerate}
+\item Što je moiré?
+\item Nabroji koja su tri osnovna razloga pojave moiréa.
+\item Navedite neka područja primjene moiréa.
+\item Navedite i usporedite moguće načine analize moiré uzoraka.
+\item Objasni vektorsku (kvantitativnu) analizu moiréa.
+\item Pri kojem kutu između dva linijska rastera moiré potpuno nestaje? Objasnite zašto. Jeli takvo stanje stabilno odnosno otporno na male promjene u kutu?
+\item Usporedite svojstva linijskog i točkastog rastera. Pri kojem kutu između rastera je moiré uzorak najstabilniji za jedan i drugi slučaj? Objasnite iz čega proizlazi ova razlika.
+\item Pod kojim kutovima su obično postavljeni rasteri za C, M, Y i K u višebojnom tisku? Zašto?
+\end{enumerate}
+
+\section*{Rastriranje}
+\begin{enumerate}
+\item Što je rastriranje i zašto se provodi?
+\item Objasnite što je rezolucija digitalnog rasterskog sustava.
+\item Skicirajte i objasnite: Rastersku ćeliju, rasterski element i mikroelement.
+\item Objasnite što je linijatura digitalnog rasterskog sustava.
+\item Navedite koje dvije strukture rasterskog elementa postoje.
+\item Objasnite AM raster i skicirajte moguću strukturu rasterskog elementa AM rastera unutar  rasterske ćelije veličine 5x5 za ton 9/25.  
+\item Objasnite FM raster i skicirajte moguću strukturu rasterskog elementa FM rastera unutar  rasterske ćelije veličine 5x5 za ton 9/25.  
+\item Kod kojih digitalnih rasterskih sustava je AM rastriranje prikladnije? Objasnite zašto?
+\item Kod kojih digitalnih rasterskih sustava je FM rastriranje prikladnije? Objasnite zašto?
+\item Koja struktura rastera se koristi kod stolnih printera?
+\item Koja struktura rastera se koristi kod osvjetljivača (CtP - sustava)?
+\end{enumerate}
+
+\section*{Metode rastriranja}
+\begin{enumerate}
+\item Navedite 4 osnovne metode digitalnog rastriranja slike.
+\item Objasnite proces jednotonske segmentacije.	
+\item Opišite i skicirajte metodu tabličnog rastriranja.
+\item Skicirajte sve elemente (dimenzije 3x3)tablice potrebne za tablično rastriranje 
+\item Navedite korake implementacije tabličnog rastriranja.
+\item Objasnite metodu rastriranja matricom nivoa.
+\item Skicirajte matricu nivoa (dimenzije 5x5) koja generira AM linijski raster
+\item Navedite korake implementacije matrice nivoa.
+\item Objasnite što je migracija težišta i zašto je važna.
+\item Usporedite racionalni i iracionalni raster.
+\item Koji pristup se koristi kada želimo preciznije definirati kut rastriranja?
+\item Objasni princip rastriranja korištenjem algoritma za difuziju greške.  
+\item Koja dva faktora kod rastriranja difuzijom greške utječu na konačan rezultat?
+\item Zašto se za rastriranje slika u boji ne bi trebala upotrebljavati skalarna difuzija greške (Scalar error diffusion)?
+\item Kako se rastrira žuti, a kako cijan i magenta kanal kod metode djelomične vektorske difuzije greške?
+\end{enumerate}
+
+\section*{Numerički zadaci} %From last section a question will always be chosen
+\begin{enumerate}
+\item Izračunajte period moiréa koji nastaje preklapanjem dva linijska rastera linijatura $100$ l/cm i $120$ l/cm. Između rastera nema pomaka u kutu. 
+\item Izračunajte period i kut moiréa koji nastaje preklapanjem dva linijska rastera linijature $100$ l/cm. Rasteri su postavljeni pod kutom od \ang{15}.
+\item Odredite broj sivih tonova koje može reproducirati racionalni raster definiran vektorom (2,4).
+\item Odredite kut rastiriranja racionalnog rastera definiranog vektorom (2,4).
+\item Koju linijaturu može postići rasterski sustav ukoliko je potrebno imati 21 nivo sive, a rezolucija uređaja koji se koristi za reprodukciju iznosi 600 dpi?
+\item Koliko nivoa sive se može postići na uređaju rezolucije 600 dpi, i linijature 134 lpi?
+\item Prema mjerenjima iz tablice odredi vrijedi  li pravilo aditivnosti za optičke gustoće mjerene kroz crveni filtar za pokrivenost površine 0,6.
+\item Prema mjerenjima iz tablice odredi vrijedi li pravilo proporcionalnosti za optičku gustoću cijan boje mjerene kroz crveni i zeleni filtar.
+\item Odredi kolorimetrijsku razliku $\Delta E^*_{ab}$ između boja: $L_{ab1}=50,-49,2$; $L_{ab2}=50,-49,20$
+\end{enumerate}

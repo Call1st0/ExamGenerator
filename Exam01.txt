@@ -1,0 +1,82 @@
+\begin{enumerate}
+\item Kako sadržaj slike utječe na krivulje izopreferencije?
+\item Opiši osjetljivost ljudskog vizualnog sustava na svjetlinu.
+\item Kako simultani kontrast utječe na pojavnost boja?
+\item Matematički definiraj x,y koordinate kromatičnosti.
+\item Izračunajte period moiréa koji nastaje preklapanjem dva linijska rastera linijatura $100$ l/cm i $120$ l/cm. Između rastera nema pomaka u kutu. 
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage\begin{enumerate}
+\item Koja struktura rastera se koristi kod osvjetljivača (CtP - sustava)?
+\item Usporedi SPF krivulje idealnih i realnih boja.
+\item Opiši pojam praga zamjetljive razlike (Just Noticable Difference) na nekom primjeru iz života.
+\item Što je uzorkovanje?
+\item Odredite kut rastiriranja racionalnog rastera definiranog vektorom (2,4).
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage\begin{enumerate}
+\item Opiši suptraktivno miješanje idealnih boja.
+\item Pod kojim kutovima su obično postavljeni rasteri za C, M, Y i K u višebojnom tisku? Zašto?
+\item Objasnite metodu rastriranja matricom nivoa.
+\item Definiraj $\Delta E^*_{ab}$ kolorimetrijsku razliku.
+\item Prema mjerenjima iz tablice odredi vrijedi  li pravilo aditivnosti za optičke gustoće mjerene kroz crveni filtar za pokrivenost površine 0,6.
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage\begin{enumerate}
+\item Što je moiré?
+\item Koji pristup se koristi kada želimo preciznije definirati kut rastriranja?
+\item Usporedi Murray-Daviesov i Yule-Nielsenov model.
+\item Usporedi tri glavna faktora koji utječu na percipiranu kvalitetu digitalne slike?
+\item Izračunajte period i kut moiréa koji nastaje preklapanjem dva linijska rastera linijature $100$ l/cm. Rasteri su postavljeni pod kutom od \ang{15}.
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage\begin{enumerate}
+\item Što je tonska rezolucija digitalne slike i čime je uvjetovana?
+\item Navedite korake implementacije tabličnog rastriranja.
+\item Usporedi osjetljivost ljudskog vizualnog sustava na kontrast u svjetlini i kontrast u kromatičnosti.
+\item Što je pravilo aditivnosti Beer-Lambertovog zakona?
+\item Prema mjerenjima iz tablice odredi vrijedi li pravilo proporcionalnosti za optičku gustoću cijan boje mjerene kroz crveni i zeleni filtar.
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage\begin{enumerate}
+\item Što je sukcesivni kontrast kod viđenja boja?
+\item Navedi i objasni Grassmanove zakone.
+\item Koja struktura rastera se koristi kod stolnih printera?
+\item Za koje nivoe luminancije weberov omjer nije, a za koje je konstantan. Skiciraj.
+\item Odredite kut rastiriranja racionalnog rastera definiranog vektorom (2,4).
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage\begin{enumerate}
+\item Navedi i objasni Grassmanove zakone.
+\item Navedite koje dvije strukture rasterskog elementa postoje.
+\item Što je simultani kontrast kod viđenja boja?
+\item Opiši pojam praga zamjetljive razlike (Just Noticable Difference) na nekom primjeru iz života.
+\item Koju linijaturu može postići rasterski sustav ukoliko je potrebno imati 21 nivo sive, a rezolucija uređaja koji se koristi za reprodukciju iznosi 600 dpi?
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage\begin{enumerate}
+\item Skiciraj građu denzitometra.
+\item Objasnite proces jednotonske segmentacije.	
+\item Definiraj Weberov kontrast i objasni u kojim uvjetima se koristi?
+\item Pod kojim kutovima su obično postavljeni rasteri za C, M, Y i K u višebojnom tisku? Zašto?
+\item Izračunajte period moiréa koji nastaje preklapanjem dva linijska rastera linijatura $100$ l/cm i $120$ l/cm. Između rastera nema pomaka u kutu. 
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage\begin{enumerate}
+\item Opišite i skicirajte metodu tabličnog rastriranja.
+\item Što denzitometar mjeri?
+\item Što je kvantizacija?
+\item Usporedi Murray-Daviesov i Yule-Nielsenov model.
+\item Prema mjerenjima iz tablice odredi vrijedi  li pravilo aditivnosti za optičke gustoće mjerene kroz crveni filtar za pokrivenost površine 0,6.
+\end{enumerate}
+\vspace{10mm}
+\large ID: U9IEWVONP4
+\newpage
