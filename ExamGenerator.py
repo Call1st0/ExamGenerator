@@ -6,11 +6,11 @@
 import string
 from random import choice, randrange, sample
 
-def main():
+def main(NumOfExams):
     #Name of the files used
     QuestionsFileName = "QuestionBank.txt"
     ExamFileName = "Exam01.txt"
-    NumOfExams =  10
+    #NumOfExams = 3
 
     # Generate ID for the exam
     SecurityString=id_generator()
@@ -23,7 +23,7 @@ def main():
     ExamFile = open(ExamFileName, "w")
 
     # Here add lines as needed e.g. First Last name or additional information if not already added in main latex file
-    for count in range(1,NumOfExams):
+    for count in range(1,NumOfExams+1):
         ExamFile.write('\\begin{enumerate}\n')
 
         ListOfLines=QuestionChooser(QuestionsFileName) #Chose random questions
@@ -42,7 +42,7 @@ def id_generator(size=10, chars=string.ascii_uppercase + string.digits):
     return ''.join(choice(chars) for _ in range(size))
 
 
-def QuestionChooser(FileName): #TODO change method to return list of stirngs with questions instead of list of ints
+def QuestionChooser(FileName): #TODO change method to return list of strings with questions instead of list of ints
     """From question bank chose a list of questions and return list of line numbers belonging to this questions
 
     Args:
@@ -71,7 +71,7 @@ def QuestionChooser(FileName): #TODO change method to return list of stirngs wit
     QuestionsFile.close()
 
     #Create list of lines to extract questions from
-    Sections = sample(range(len(ListOfQuestions)-1), k = 4) #Careful, number of sections start from 0
+    Sections = sample(range(len(ListOfQuestions)-1), k = 5) #Careful, number of sections start from 0
     ListOfLines=[]
     for SectionNumber in Sections:
         # Generate list using num of line where section start add random number to chose question in that section and
@@ -83,4 +83,11 @@ def QuestionChooser(FileName): #TODO change method to return list of stirngs wit
 
 
 if __name__ == '__main__':
-    main()
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Number of exams')
+
+    parser.add_argument('--numExams', type=int, metavar='N', required=True, help='Number of needed Exams')
+    args = parser.parse_args()
+
+    main(NumOfExams=args.numExams)
